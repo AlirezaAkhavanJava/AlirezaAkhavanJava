@@ -1,248 +1,212 @@
-# `ALIREZA_AKHAVAN.exe`
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=JAVA+BACKEND+DEVELOPER;LINUX+ENTHUSIAST;SYSTEMS+%26+NETWORKING+LEARNER;BUILDING+%7C+BREAKING+%7C+UNDERSTANDING" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/MODE-BUILDING-00d9ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/OS-LINUX-ff0055?style=for-the-badge&labelColor=0d1117" />
-</p>
-
----
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   > whoami                                                   ║
-║                                                              ║
-║   alireza_akhavan                                            ║
-║                                                              ║
-║   Backend Developer focused on Java and the systems          ║
-║   underneath the abstractions.                               ║
-║                                                              ║
-║   I don't just want to use technology.                       ║
-║   I want to understand how it works.                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-## `> ABOUT_ME`
-
-I'm a **Java backend developer** who enjoys going deeper than the framework level.
-
-My main focus is building backend systems with **Java, Spring Boot and PostgreSQL**, while continuously expanding into the lower layers of computing — **Linux, networking, operating systems, databases, Git internals and C**.
-
-I like understanding what actually happens underneath the abstractions.
-
-```text
-Java
- └── Spring Boot
-      └── REST APIs
-           └── HTTP / TCP
-                └── Networking
-                     └── Linux
-                          └── Hardware
-```
-
-My philosophy is simple:
-
-> **Don't just learn the API. Learn what the API is hiding.**
-
----
-
-## `> TECH_STACK`
-
-### `BACKEND`
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,maven" />
-</p>
-
-**Java** · **Spring Boot** · **Maven** · REST APIs · OOP · Backend Architecture
-
-### `DATABASES`
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
-
-**PostgreSQL** · SQL · Joins · Constraints · Primary Keys · Foreign Keys · Transactions
-
-### `TOOLS`
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,idea" />
-</p>
-
-**Git** · **GitHub** · **Docker** · **Linux** · Bash · IntelliJ IDEA · VS Code
-
-### `LOW LEVEL / CS**
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,linux" />
-</p>
-
-**C** · Computer Science fundamentals · Networking · Systems · Linux
-
----
-
-## `> CURRENTLY_LEARNING`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  [████████████████████░░░░] Java / Backend                 │
-│  [██████████████████░░░░░░] PostgreSQL / SQL              │
-│  [███████████████░░░░░░░░░] Linux / Systems               │
-│  [██████████████░░░░░░░░░░] Networking                    │
-│  [████████████░░░░░░░░░░░░] Docker / DevOps               │
-│  [██████████░░░░░░░░░░░░░░] C / Computer Science          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-I'm currently going deeper into:
-
-* Java internals and advanced OOP
-* Spring Boot backend architecture
-* PostgreSQL and database design
-* Networking fundamentals
-* Linux and systems
-* Git internals
-* Docker
-* Computer Science fundamentals
-* C programming
-
----
-
-## `> WHAT_I_LIKE`
-
-```text
-[+] Backend engineering
-[+] Clean architecture
-[+] Databases
-[+] Linux
-[+] Networking
-[+] Open source
-[+] Understanding internals
-[+] Building things from scratch
-[+] Breaking things to understand them
-```
-
-I especially enjoy the point where software stops being just:
-
-```java
-someMethod();
-```
-
-and becomes:
-
-```text
-Application
-      ↓
-JVM
-      ↓
-Operating System
-      ↓
-Network Stack
-      ↓
-Hardware
-```
-
----
-
-## `> PROJECTS`
-
-### `01 // JAVA_BACKEND`
-
-Backend applications built around Java and Spring Boot.
-
-**Focus:**
-
-`REST APIs` · `OOP` · `SQL` · `PostgreSQL` · `Architecture`
-
----
-
-### `02 // SYSTEMS_LAB`
-
-A collection of experiments and notes while learning how computers actually work.
-
-**Focus:**
-
-`Linux` · `C` · `Networking` · `Processes` · `Memory` · `Protocols`
-
----
-
-### `03 // GIT_EXPERIMENTS`
-
-Going beyond:
-
-```bash
-git add .
-git commit
-git push
-```
-
-and exploring what actually exists inside:
-
-```text
-.git/
-├── objects/
-├── refs/
-├── HEAD
-├── index
-└── ...
-```
-
-**Goal:** understand Git as a content-addressable database rather than just a version-control command.
-
----
-
-## `> GITHUB_ACTIVITY`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00d9ff&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=00ff9c&fire=ff0055&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e" />
-</p>
-
----
-
-## `> CONNECT`
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/alireza-akhavan80">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/AlirezaAkhavanJava">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:111827,100:020617&text=Alireza%20Akhavan&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Engineer%20%7C%20System%20Thinker&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
 </a>
 
-<a href="https://www.instagram.com/alireza_akhavan_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<br/>
+
+<a href="https://github.com/AlirezaAkhavanJava">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Spring+Boot+Backend+Developer;Linux+Enthusiast;Building+Secure+Web+Applications;Exploring+Distributed+Systems;Terminal+%3E+GUI" alt="Typing animation"/>
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/AlirezaAkhavanJava">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-111827?style=for-the-badge&labelColor=0d1117&color=58a6ff"/>
+</a>
+<a href="https://www.debian.org/">
+  <img src="https://img.shields.io/badge/OS-Debian%20%7C%20Arch-111827?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=7c3aed"/>
+</a>
+<a href="https://github.com/AlirezaAkhavanJava">
+  <img src="https://komarev.com/ghpvc/?username=AlirezaAkhavanJava&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
+</a>
+
+</div>
+
+> whoami
+
+I'm Alireza Akhavan, a Spring Boot Backend Developer and Linux enthusiast focused on building reliable, secure, and well-structured backend systems.
+
+I enjoy going below the abstraction layer — understanding how applications communicate, how databases behave, how systems interact over networks, and how software ultimately runs on an operating system.
+
+My main ecosystem is Java + Spring Boot + PostgreSQL, with a growing interest in application security, networking, and distributed systems.
+
+Backend Engineer + System Thinker
+
+// TECH STACK
+
+Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" height="48"/>
 </p>
 
----
+Java · Spring Boot · Spring Data JPA · Spring Security · Hibernate · JDBC · Maven
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   "The abstraction is useful.                              │
-│    Understanding the abstraction is power."                │
-│                                                             │
-│                                      — Alireza Akhavan       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+Databases
 
-<p align="center">
-  <code>01001001 00100000 01100010 01110101 01101001 01101100 01100100 00101110</code>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" height="48"/>
 </p>
 
-<p align="center">
-  <b>BUILD • BREAK • LEARN • REPEAT</b>
+PostgreSQL · SQL
+
+Systems & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,debian,arch,bash,docker" height="48"/>
 </p>
+
+Linux · Debian · Arch Linux · Bash · Docker
+
+Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vim,neovim,idea" height="48"/>
+</p>
+
+Git · GitHub · GitHub CLI · Vim · Neovim · IntelliJ IDEA
+
+Foundations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c" height="48"/>
+</p>
+
+C · CS50 · Networking fundamentals · Computer Science fundamentals
+
+// SYSTEMS UNDER EXPLORATION
+
+Application Security
+        ↓
+Secure Web Applications
+        ↓
+Networking & Communication
+        ↓
+Distributed Systems
+        ↓
+Systems & Infrastructure
+
+Currently exploring:
+
+Application and web security
+
+Distributed systems
+
+Networking and communication
+
+Backend architecture
+
+Linux internals and system administration
+
+Deeper computer science fundamentals
+
+// GITHUB ACTIVITY
+
+<div align="center">
+
+<a href="https://github.com/AlirezaAkhavanJava">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlirezaAkhavanJava&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/AlirezaAkhavanJava">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAkhavanJava&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/AlirezaAkhavanJava">
+  <img src="https://streak-stats.demolab.com?user=AlirezaAkhavanJava&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF" alt="GitHub streak"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaAkhavanJava&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=7c3aed&area=true&hide_border=true" width="95%" alt="Contribution activity graph"/>
+
+</div>
+
+// DEVELOPMENT ENVIRONMENT
+
+<div align="center">
+
+Layer
+
+Environment
+
+Primary OS
+
+Debian / Arch Linux
+
+Editor
+
+Neovim / Vim
+
+IDE
+
+IntelliJ IDEA
+
+Shell
+
+Bash
+
+Backend
+
+Java / Spring Boot
+
+Database
+
+PostgreSQL
+
+Containers
+
+Docker
+
+Version Control
+
+Git / GitHub CLI
+
+</div>
+
+I prefer understanding what happens underneath the abstraction rather than treating the abstraction as magic.
+
+// DEVELOPER JOURNEY
+
+My path is centered around one idea:
+
+Don't just learn frameworks. Understand the systems underneath them.
+
+I started with programming fundamentals and gradually moved toward Java backend development, databases, Linux, networking, and system-level concepts.
+
+Today, I'm focused on becoming a stronger backend engineer while expanding toward security, distributed systems, and deeper computer science.
+
+// CONNECT
+
+<div align="center">
+
+<a href="https://github.com/AlirezaAkhavanJava">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/alireza-akhavan80/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="https://www.instagram.com/alireza_akhavan_/?hl=en">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+</div>
+
+<div align="center">
+
+SYSTEM STATUS
+
+<img src="https://img.shields.io/badge/BACKEND-ONLINE-111827?style=flat-square&labelColor=0d1117&color=58a6ff"/>
+<img src="https://img.shields.io/badge/LINUX-ONLINE-111827?style=flat-square&labelColor=0d1117&color=7c3aed"/>
+<img src="https://img.shields.io/badge/SECURITY-EXPLORING-111827?style=flat-square&labelColor=0d1117&color=58a6ff"/>
+<img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-EXPLORING-111827?style=flat-square&labelColor=0d1117&color=7c3aed"/>
+
+<br/><br/>
+
+<sub>Built with Java, Linux, curiosity, and too many terminal windows.</sub>
+
+</div>
