@@ -42,42 +42,14 @@ Backend Engineer + System Thinker
 <!--LOGOS SECTION-->
 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,bash,docker" height="48"/>
 </p>
-
-Java · Spring Boot · Spring Data JPA · Spring Security · Hibernate · JDBC · Maven
-
-Databases
-
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,githubactions,vim" height="48"/>
 </p>
-
-PostgreSQL · SQL
-
-Systems & Infrastructure
-
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,arch,bash,docker" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux,debian,arch,neovim,idea,c" height="48"/>
 </p>
-
-Linux · Debian · Arch Linux · Bash · Docker
-
-Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vim,neovim,idea" height="48"/>
-</p>
-
-Git · GitHub · GitHub CLI · Vim · Neovim · IntelliJ IDEA
-
-Foundations
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c" height="48"/>
-</p>
-
-C · CS50 · Networking fundamentals · Computer Science fundamentals
 
 
 
