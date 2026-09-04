@@ -41,13 +41,15 @@ Backend Engineer + System Thinker
 <!--LOGOS SECTION-->
 # 💻 Tech Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,bash,docker" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,c,bash,py,postgresql,mysql" height="48"/>
 </p>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,githubactions,vim" height="48"/>
+  <img src="https://skillicons.dev/icons?i=hibernate,maven,docker,git,github,githubactions,gradle" height="48"/>
 </p>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,arch,neovim,idea,c" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux,debian,arch,neovim,vim,idea,vscode" height="48"/>
 </p>
 
 
