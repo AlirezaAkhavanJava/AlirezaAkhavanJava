@@ -27,7 +27,7 @@
 
 </div>
 
-> whoami
+> # whoami
 
 I'm Alireza Akhavan, a Spring Boot Backend Developer and Linux enthusiast focused on building reliable, secure, and well-structured backend systems.
 
@@ -38,9 +38,8 @@ My main ecosystem is Java + Spring Boot + PostgreSQL, with a growing interest in
 Backend Engineer + System Thinker
 
 
-// TECH STACK
 <!--LOGOS SECTION-->
-Backend
+# 💻 Tech Stack:
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,bash,docker" height="48"/>
 </p>
@@ -57,7 +56,7 @@ Backend
 
 <!--CONTACT SECTION-->
 
-// CONNECT
+# CONNECT
 
 <div align="center">
 
