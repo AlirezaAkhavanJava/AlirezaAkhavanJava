@@ -72,9 +72,9 @@ Backend Engineer + System Thinker
 
 </div>
 
-<div align="center">
 
-SYSTEM STATUS
+# SYSTEM STATUS
+<div align="center">
 
 <img src="https://img.shields.io/badge/BACKEND-ONLINE-111827?style=flat-square&labelColor=0d1117&color=58a6ff"/>
 <img src="https://img.shields.io/badge/LINUX-ONLINE-111827?style=flat-square&labelColor=0d1117&color=7c3aed"/>
