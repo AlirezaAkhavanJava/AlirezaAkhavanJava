@@ -1,3 +1,6 @@
+<!-- TOP BAR SECTION-->
+
+
 <div align="center">
 
 <a href="https://github.com/AlirezaAkhavanJava">
@@ -34,10 +37,10 @@ My main ecosystem is Java + Spring Boot + PostgreSQL, with a growing interest in
 
 Backend Engineer + System Thinker
 
+
 // TECH STACK
-
+<!--LOGOS SECTION-->
 Backend
-
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" height="48"/>
 </p>
@@ -76,109 +79,11 @@ Foundations
 
 C · CS50 · Networking fundamentals · Computer Science fundamentals
 
-// SYSTEMS UNDER EXPLORATION
 
-Application Security
-        ↓
-Secure Web Applications
-        ↓
-Networking & Communication
-        ↓
-Distributed Systems
-        ↓
-Systems & Infrastructure
 
-Currently exploring:
 
-Application and web security
 
-Distributed systems
-
-Networking and communication
-
-Backend architecture
-
-Linux internals and system administration
-
-Deeper computer science fundamentals
-
-// GITHUB ACTIVITY
-
-<div align="center">
-
-<a href="https://github.com/AlirezaAkhavanJava">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlirezaAkhavanJava&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/AlirezaAkhavanJava">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAkhavanJava&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/AlirezaAkhavanJava">
-  <img src="https://streak-stats.demolab.com?user=AlirezaAkhavanJava&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF" alt="GitHub streak"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaAkhavanJava&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=7c3aed&area=true&hide_border=true" width="95%" alt="Contribution activity graph"/>
-
-</div>
-
-// DEVELOPMENT ENVIRONMENT
-
-<div align="center">
-
-Layer
-
-Environment
-
-Primary OS
-
-Debian / Arch Linux
-
-Editor
-
-Neovim / Vim
-
-IDE
-
-IntelliJ IDEA
-
-Shell
-
-Bash
-
-Backend
-
-Java / Spring Boot
-
-Database
-
-PostgreSQL
-
-Containers
-
-Docker
-
-Version Control
-
-Git / GitHub CLI
-
-</div>
-
-I prefer understanding what happens underneath the abstraction rather than treating the abstraction as magic.
-
-// DEVELOPER JOURNEY
-
-My path is centered around one idea:
-
-Don't just learn frameworks. Understand the systems underneath them.
-
-I started with programming fundamentals and gradually moved toward Java backend development, databases, Linux, networking, and system-level concepts.
-
-Today, I'm focused on becoming a stronger backend engineer while expanding toward security, distributed systems, and deeper computer science.
+<!--CONTACT SECTION-->
 
 // CONNECT
 
