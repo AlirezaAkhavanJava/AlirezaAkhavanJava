@@ -78,13 +78,13 @@ Backend Engineer + System Thinker
 # SYSTEM STATUS
 <div align="center">
 
-<img src="https://img.shields.io/badge/BACKEND-ONLINE-111827?style=flat-square&labelColor=0d1117&color=58a6ff"/>
-<img src="https://img.shields.io/badge/LINUX-ONLINE-111827?style=flat-square&labelColor=0d1117&color=7c3aed"/>
-<img src="https://img.shields.io/badge/SECURITY-EXPLORING-111827?style=flat-square&labelColor=0d1117&color=58a6ff"/>
-<img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-EXPLORING-111827?style=flat-square&labelColor=0d1117&color=7c3aed"/>
+<img src="https://img.shields.io/badge/BACKEND-ONLINE-111827?style=flat-square&labelColor=050505&color=00ff99"/>
+<img src="https://img.shields.io/badge/LINUX-ONLINE-111827?style=flat-square&labelColor=050505&color=00e5ff"/>
+<img src="https://img.shields.io/badge/SECURITY-EXPLORING-111827?style=flat-square&labelColor=050505&color=ff00ff"/>
+<img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-EXPLORING-111827?style=flat-square&labelColor=050505&color=ffaa00"/>
 
-<br/><br/>
-
+<br>
 <sub>Built with Java, Linux, curiosity, and too many terminal windows.</sub>
-
 </div>
+
+
