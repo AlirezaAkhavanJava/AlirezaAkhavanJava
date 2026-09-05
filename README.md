@@ -39,7 +39,7 @@ Backend Engineer + System Thinker
 
 
 <!--LOGOS SECTION-->
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,c,bash,py,postgresql,mysql" height="48"/>
 </p>
